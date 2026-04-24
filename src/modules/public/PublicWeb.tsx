@@ -13,7 +13,7 @@ export const PublicWeb: React.FC = () => (
       🌌 SYNTHESIS CORE ENGINE
     </h1>
     <div className="p-6 border border-blue-500/30 bg-blue-500/5 rounded-lg">
-      <p className="text-blue-400 mb-4 font-bold">STATUS: ALPHA v1.0 ONLINE</p>
+      <p className="text-blue-400 mb-4 font-bold uppercase tracking-widest animate-pulse">STATUS: Synthesis Core Engine v1.1 Active</p>
       <p className="text-gray-400 leading-relaxed">
         Vítejte v digitálním organismu, který se sám spravuje a vyvíjí. 
         Tato stránka byla kompletně vygenerována a nasazena autonomní 
