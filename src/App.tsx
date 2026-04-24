@@ -18,7 +18,7 @@ const App: React.FC = () => {
       <header className="flex justify-between items-center pb-6 border-b border-gray-800 mb-6">
         <div className="flex flex-col">
           <h1 className="text-xl font-bold tracking-tighter text-white uppercase italic">SYNTHESIS STUDIO</h1>
-          <p className="text-[10px] text-gray-500 tracking-widest">v1.0-ALPHA // {TextDatabase.SYSTEM.HEALTH_OPTIMAL}</p>
+          <p className="text-[10px] text-gray-500 tracking-widest">v1.1-PRO // {TextDatabase.SYSTEM.HEALTH_OPTIMAL}</p>
         </div>
         
         {/* Naše vlastní G-Sync tlačítko */}
